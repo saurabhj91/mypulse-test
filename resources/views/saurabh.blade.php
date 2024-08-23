@@ -3,7 +3,7 @@
 @section('content')
 <div class="charts-container grid grid-cols-2 lg:grid-cols-3 gap-4">
     <div class="col-12 col-md-4">
-        @include('components.chartCard', ['cardTitle'=>'Chart title goes heresss', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-1'])
+        @include('components.chartCard', ['cardTitle'=>'Chart title goes here', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-1'])
     </div>
     <div class="col-12 col-md-4">
         <div class="chart-card">
