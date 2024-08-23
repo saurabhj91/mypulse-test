@@ -33,13 +33,13 @@
         </div>
     </div>
     <div class="col-12 col-md-4">
-        @include('components.chartCard', ['cardTitle'=>'Chart title goes heresss', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-3'])
+        @include('components.chartCard', ['cardTitle'=>'Chart title goes here', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-3'])
     </div>
     <div class="col-12 col-md-4">
-        @include('components.chartCard', ['cardTitle'=>'Chart title goes heresss', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-4'])
+        @include('components.chartCard', ['cardTitle'=>'Chart title goes here', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-4'])
     </div>
     <div class="col-12 col-md-4">
-        @include('components.chartCard', ['cardTitle'=>'Chart title goes heresss', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-5'])
+        @include('components.chartCard', ['cardTitle'=>'Chart title goes here', 'cardDescription'=>'15 April - 21 April', 'id'=>'chart-5'])
     </div>
 </div>
 @endsection
